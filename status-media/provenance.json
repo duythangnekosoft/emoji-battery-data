@@ -1,0 +1,307 @@
+[
+  {
+    "source": "Assets_Templates/template_color_01.png",
+    "path": "status-media/backgrounds/01.png",
+    "sha256": "c2c01de21ddb5e71db9c6c30f30b4ede1e3d3670793a0e8d2eae160d4738b186"
+  },
+  {
+    "source": "Assets_Templates/template_color_02.png",
+    "path": "status-media/backgrounds/02.png",
+    "sha256": "075b0e10d2fb86cfc1d560e6ef8ac0c694a5c53ac680490098771a6c1ecb03bb"
+  },
+  {
+    "source": "Assets_Templates/template_color_03.png",
+    "path": "status-media/backgrounds/03.png",
+    "sha256": "36288791cb0dffc0e91333855a96b3477c446127144ced82ab605c5284a687fd"
+  },
+  {
+    "source": "Assets_Templates/template_color_04.png",
+    "path": "status-media/backgrounds/04.png",
+    "sha256": "d1cc6fb2cf228d7669134254c174f7a675d57dc69cbd3f8094ec4674eec3ad73"
+  },
+  {
+    "source": "Assets_Templates/template_color_05.png",
+    "path": "status-media/backgrounds/05.png",
+    "sha256": "6a4a04357e1c3abdd85cceb2b1ac842eada38525b82a3fb36aa7e998d638e66f"
+  },
+  {
+    "source": "Assets_Templates/template_color_06.png",
+    "path": "status-media/backgrounds/06.png",
+    "sha256": "b21bca24e3b3efe5302a6a82a4c0f35a4b7a883c57b681b9145b6116f444d78e"
+  },
+  {
+    "source": "Assets_Templates/template_color_07.png",
+    "path": "status-media/backgrounds/07.png",
+    "sha256": "d56605f1d4baced76d81ff31f6b0570f3a98cfab0381c0d95d6189b91fba9f4f"
+  },
+  {
+    "source": "Assets_Templates/template_color_08.png",
+    "path": "status-media/backgrounds/08.png",
+    "sha256": "272f97f5743338bde3b0a31356042b7d8af45d2f890082caff8e41ba5f5ceacd"
+  },
+  {
+    "source": "Assets_Templates/template_color_09.png",
+    "path": "status-media/backgrounds/09.png",
+    "sha256": "7aa3545a858578dc0870ab42366e1b3302ce67dd89af6e7406bf2510a3dc9d5a"
+  },
+  {
+    "source": "Assets_Templates/template_color_10.png",
+    "path": "status-media/backgrounds/10.png",
+    "sha256": "2067497d53ee9e5ecdf20efc62f42bacc85f4cf20b8c204c4f14deb508988503"
+  },
+  {
+    "source": "Assets_Templates/template_color_11.png",
+    "path": "status-media/backgrounds/11.png",
+    "sha256": "0bbfe870bee4434b0e56536c5eb9b3c5afc2f29601f8f946b0a1dc21b04c52c5"
+  },
+  {
+    "source": "Assets_Templates/template_color_12.png",
+    "path": "status-media/backgrounds/12.png",
+    "sha256": "7ea369f9e447a681eb7b5b83a27c0e5de08f9e83c1e4e28cbc3b81f7ce91a9cd"
+  },
+  {
+    "source": "Assets_Templates/template_color_13.png",
+    "path": "status-media/backgrounds/13.png",
+    "sha256": "91864721d87048d7715ac8a77f75c35914225619d739d85835b5caf7bbf44a6c"
+  },
+  {
+    "source": "Assets_Templates/template_color_14.png",
+    "path": "status-media/backgrounds/14.png",
+    "sha256": "d2996a92a27e0578e60700c3e94944e6cf47d8e22e600e6f68e6b998768555c5"
+  },
+  {
+    "source": "Assets_Templates/template_color_15.png",
+    "path": "status-media/backgrounds/15.png",
+    "sha256": "75abfa1a76c26f0f9720b56e5990d60106567b0005ad3c859f3c4e5a817819ab"
+  },
+  {
+    "source": "Assets_Templates/template_color_16.png",
+    "path": "status-media/backgrounds/16.png",
+    "sha256": "c8f9138b6b5dcc4552ffcc9c3dd8b8186872be90bd414329a346780002df2df3"
+  },
+  {
+    "source": "Assets_Templates/template_color_17.png",
+    "path": "status-media/backgrounds/17.png",
+    "sha256": "d3d41a86643fc5f478891fe12385fe5575bed15536fb12c1a779890919eff928"
+  },
+  {
+    "source": "Assets_Templates/template_color_18.png",
+    "path": "status-media/backgrounds/18.png",
+    "sha256": "35967f5c3e7f28837a30d3396d47456c024af723f4de10f2695787c6db40046c"
+  },
+  {
+    "source": "Assets_Templates/template_color_19.png",
+    "path": "status-media/backgrounds/19.png",
+    "sha256": "ca2a38577b407ca798886258c763d052a5cbf459a91a0377969b0cca9c6ba6df"
+  },
+  {
+    "source": "Assets_Templates/template_color_20.png",
+    "path": "status-media/backgrounds/20.png",
+    "sha256": "5d2bafd8c091316c099fff1fad5d3fd3baeabcbbc910378d3da33b043cd51230"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_01.png",
+    "path": "status-media/emotions/01.png",
+    "sha256": "e97b8b7eb72130822588c46b84a76fb0a05d9e42bd816fa8e255ff53f3ae74b2"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_02.png",
+    "path": "status-media/emotions/02.png",
+    "sha256": "b4d7cb9dac68d9f77f02bdb7b48f2d28d3e91df644838a87855a90b0a9697ecd"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_03.png",
+    "path": "status-media/emotions/03.png",
+    "sha256": "8fd5d8238e13f1692b75dcb1defdb16518d012fdbca35e005c21260b0b2f6642"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_04.png",
+    "path": "status-media/emotions/04.png",
+    "sha256": "58e5115864bac1594378830c4f35595951ceb6551a7b76b067fcd6ca80d4cfde"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_05.png",
+    "path": "status-media/emotions/05.png",
+    "sha256": "429e124c2748da5eee1e644d60135ba2601455e25889c99f17eb0b94e81c49ac"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_06.png",
+    "path": "status-media/emotions/06.png",
+    "sha256": "3b10439b1452038618b90f4d137825fe36c24b13197ed4fc693eeef1df46bbe9"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_07.png",
+    "path": "status-media/emotions/07.png",
+    "sha256": "a99493f08f19f590589943f4b3b69aa8ef4eefee517497232c597239f150cdbe"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_08.png",
+    "path": "status-media/emotions/08.png",
+    "sha256": "765d0d4fde8fefe64bcff1ad5bbdb12e7f7d59b5b7077d916d6a1918c13e70f1"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_09.png",
+    "path": "status-media/emotions/09.png",
+    "sha256": "8b1d8dd5d807713925e245151178685ed24d3908a8dd2f1ddb3e778db9a1dea4"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_10.png",
+    "path": "status-media/emotions/10.png",
+    "sha256": "dec0fdc4f309bd9615eb3090774b434c9855c7065987a978961b375e7a570b81"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_11.png",
+    "path": "status-media/emotions/11.png",
+    "sha256": "2f8876a61f8b77d3821a9d910f6d03acbce5dce7c736194d0a3cafa0b5f7fb59"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_12.png",
+    "path": "status-media/emotions/12.png",
+    "sha256": "f157e60e9f4dd07ab87e34e0ad493908be04d9f7810d8476c5a44d4d2ca61628"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_13.png",
+    "path": "status-media/emotions/13.png",
+    "sha256": "ab95ac801f4db2bb4d2277feac64a1d6d03b5f53397e45a4d7e69b7ef804fa3c"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_14.png",
+    "path": "status-media/emotions/14.png",
+    "sha256": "223dc47572d3962c0b26e946533f7b29ddae3c8a7221f9b96cec21e4ccd699d2"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_15.png",
+    "path": "status-media/emotions/15.png",
+    "sha256": "06743873c6f1103abd7d85bb002a83d25a55e3e198e8e9e9a289123bb219d535"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_16.png",
+    "path": "status-media/emotions/16.png",
+    "sha256": "23f9717d87a7b92314232acf2ee6bb8fbe22ee9b85480e57eb9394d455378198"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_17.png",
+    "path": "status-media/emotions/17.png",
+    "sha256": "36d9df975fe8c41b17b549ddc6fc17e7457f424aa7fc378c9ed4ce8b6e3de7c2"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_18.png",
+    "path": "status-media/emotions/18.png",
+    "sha256": "729fb6d67f35e33e74f4295a936c28756df432e0dd291cb5ca398b38f6ada386"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_19.png",
+    "path": "status-media/emotions/19.png",
+    "sha256": "22cd13badf6996c1da6ef250e8cf89228725bf3d81a71a443f300e71fbf8bf6b"
+  },
+  {
+    "source": "Assets_Cute_Emotions/emotion_20.png",
+    "path": "status-media/emotions/20.png",
+    "sha256": "25cfe6a019689c382350597a50aa83f45828accd0eb6955db2fcf7e90702cfde"
+  },
+  {
+    "source": "Assets_Cute_Animations/1.gif",
+    "path": "status-media/animations/01.gif",
+    "sha256": "805ae7761df213697655c6b86eadc066661179390f95b1e1d809ad5a712dd5c2"
+  },
+  {
+    "source": "Assets_Cute_Animations/2.gif",
+    "path": "status-media/animations/02.gif",
+    "sha256": "750360034ffed1d6e7cd34c21c8fd55fcf61545f08c5a84bd2c7c5c653455917"
+  },
+  {
+    "source": "Assets_Cute_Animations/3.gif",
+    "path": "status-media/animations/03.gif",
+    "sha256": "e6e1d8cc09c47891124b71687f54675a488bc52c31a83082c9a823a7a2def749"
+  },
+  {
+    "source": "Assets_Cute_Animations/4.gif",
+    "path": "status-media/animations/04.gif",
+    "sha256": "5a202ca78e800d2325a5f12da85a6fa236f92719923415d2147a9b89c079476f"
+  },
+  {
+    "source": "Assets_Cute_Animations/5.gif",
+    "path": "status-media/animations/05.gif",
+    "sha256": "040563bf6405413e72894736e57171fabc8021632fa073daba9200316966053c"
+  },
+  {
+    "source": "Assets_Cute_Animations/6.gif",
+    "path": "status-media/animations/06.gif",
+    "sha256": "c42e9b8f87d544d0043116ca4aa71855ce8db26b30d3361901a12db6e9e80ca3"
+  },
+  {
+    "source": "Assets_Cute_Animations/7.gif",
+    "path": "status-media/animations/07.gif",
+    "sha256": "24f9c03c86b7aab02f11809f7402cf1af04e209521ca0d53c254251d494c1cbe"
+  },
+  {
+    "source": "Assets_Cute_Animations/8.gif",
+    "path": "status-media/animations/08.gif",
+    "sha256": "daac8c926588b378adfa09526b1fc182ea13b772bf0b7e4a485524fa947811cc"
+  },
+  {
+    "source": "Assets_Cute_Animations/9.gif",
+    "path": "status-media/animations/09.gif",
+    "sha256": "9e79148df49661e7844e4467bb1f3989f9d0e56b96116597976e09754a915ab0"
+  },
+  {
+    "source": "Assets_Cute_Animations/10.gif",
+    "path": "status-media/animations/10.gif",
+    "sha256": "60ab1ee87906c576b122cce5681398f948464bb5855ad796294b51880f252878"
+  },
+  {
+    "source": "Assets_Cute_Animations/11.gif",
+    "path": "status-media/animations/11.gif",
+    "sha256": "e8b54a6c7d1421606af5072b481b967e711a44025356deafae53a8a56af1a543"
+  },
+  {
+    "source": "Assets_Cute_Animations/12.gif",
+    "path": "status-media/animations/12.gif",
+    "sha256": "a32db8084afee89494ec5d4363f657ad0664a2732acb04d5ddb6439c0b49bef2"
+  },
+  {
+    "source": "Assets_Cute_Animations/13.gif",
+    "path": "status-media/animations/13.gif",
+    "sha256": "2ff33bba0b90dbd7bbbe1e86cfd82c2c6d18fc9fbf6d641782518aa0fc3bbc00"
+  },
+  {
+    "source": "Assets_Cute_Animations/14.gif",
+    "path": "status-media/animations/14.gif",
+    "sha256": "6abf944c7d83e50d1deb3f303611bd3323f9b534ff1a24c1f5a0d523be62d11a"
+  },
+  {
+    "source": "Assets_Cute_Animations/15.gif",
+    "path": "status-media/animations/15.gif",
+    "sha256": "f50d3f1d40e5684787d48bc265b229a6fcd872a864dc2cc785c622ce964f1bb5"
+  },
+  {
+    "source": "Assets_Cute_Animations/16.gif",
+    "path": "status-media/animations/16.gif",
+    "sha256": "be5da37bc6bdd8929dc01d31f024696b3ad8d57477637c48ba389308bab440aa"
+  },
+  {
+    "source": "Assets_Cute_Animations/17.gif",
+    "path": "status-media/animations/17.gif",
+    "sha256": "aad3c924bfd16ad11897073d4cfa16955eb241769b312bd17928443bc64d8f63"
+  },
+  {
+    "source": "Assets_Cute_Animations/18.gif",
+    "path": "status-media/animations/18.gif",
+    "sha256": "e5c49f3152194241ed191620a56ed17195976f7857bc147259618fcf8820a140"
+  },
+  {
+    "source": "Assets_Cute_Animations/19.gif",
+    "path": "status-media/animations/19.gif",
+    "sha256": "b97c2abec625b8e45ea65c285e2a1b3cd8fc18fd883707cc583a0951fb6daae2"
+  },
+  {
+    "source": "Assets_Cute_Animations/20.gif",
+    "path": "status-media/animations/20.gif",
+    "sha256": "d22573972087623ba63996a4911e2b3db844ceaba44ce55783ee0cd289e0513a"
+  },
+  {
+    "source": "Assets_Cute_Animations/21.gif",
+    "path": "status-media/animations/21.gif",
+    "sha256": "81735c34362e40c904025af9d99084086552a86f77f84f7436ff0cf1f476eb3f"
+  }
+]
